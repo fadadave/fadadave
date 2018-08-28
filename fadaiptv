@@ -1,4 +1,188 @@
-A#EXT#E
+#EXTM3U
+#EXTINF:-1,AF: Africa TV 1
+http://212.8.248.197:8080/live/sam02/sam02/989.ts
+#EXTINF:-1,AF: Africa TV 2
+http://212.8.248.197:8080/live/sam02/sam02/958.ts
+#EXTINF:-1,AF: Africa TV 4
+http://212.8.248.197:8080/live/sam02/sam02/996.ts
+#EXTINF:-1,AF: Africa TV 3
+http://212.8.248.197:8080/live/sam02/sam02/972.ts
+#EXTINF:-1,AF: Canal 2
+http://212.8.248.197:8080/live/sam02/sam02/959.ts
+#EXTINF:-1,AF: Music Viva Africa
+http://212.8.248.197:8080/live/sam02/sam02/975.ts
+#EXTINF:-1,AF: TRACE NAIJA
+http://212.8.248.197:8080/live/sam02/sam02/957.ts
+#EXTINF:-1,AF: Burkina Info
+http://212.8.248.197:8080/live/sam02/sam02/961.ts
+#EXTINF:-1,AF: Ratelki TV
+http://212.8.248.197:8080/live/sam02/sam02/985.ts
+#EXTINF:-1,AF: Wazobia TV
+http://212.8.248.197:8080/live/sam02/sam02/973.ts
+#EXTINF:-1,AF: RTV TV
+http://212.8.248.197:8080/live/sam02/sam02/984.ts
+#EXTINF:-1,AF: LC2 Benin
+http://212.8.248.197:8080/live/sam02/sam02/983.ts
+#EXTINF:-1,AF: 2STV ( Senegal )
+http://212.8.248.197:8080/live/sam02/sam02/974.ts
+#EXTINF:-1,AF: RTG ( Guiniea )
+http://212.8.248.197:8080/live/sam02/sam02/970.ts
+#EXTINF:-1,AF: TVC News
+http://212.8.248.197:8080/live/sam02/sam02/977.ts
+#EXTINF:-1,AF: ORTB
+http://212.8.248.197:8080/live/sam02/sam02/994.ts
+#EXTINF:-1,AF: RWANDA TV
+http://212.8.248.197:8080/live/sam02/sam02/979.ts
+#EXTINF:-1,AF: Walf TV Senegal
+http://212.8.248.197:8080/live/sam02/sam02/981.ts
+#EXTINF:-1,AF: Tchad TV
+http://212.8.248.197:8080/live/sam02/sam02/980.ts
+#EXTINF:-1,AF: Diaspora24 ( Ghana )
+http://212.8.248.197:8080/live/sam02/sam02/971.ts
+#EXTINF:-1,AF: Realnolly tv
+http://212.8.248.197:8080/live/sam02/sam02/978.ts
+#EXTINF:-1,AF: Music BOMBA
+http://212.8.248.197:8080/live/sam02/sam02/976.ts
+#EXTINF:-1,AF: CRTV
+http://212.8.248.197:8080/live/sam02/sam02/987.ts
+#EXTINF:-1,AF: Channels Television ( Nigeria )
+http://212.8.248.197:8080/live/sam02/sam02/986.ts
+#EXTINF:-1,AF: SenTV HD
+http://212.8.248.197:8080/live/sam02/sam02/982.ts
+#EXTINF:-1,AF: Kalsan TV Somali
+http://212.8.248.197:8080/live/sam02/sam02/966.ts
+#EXTINF:-1,AF: RTS2
+http://212.8.248.197:8080/live/sam02/sam02/963.ts
+#EXTINF:-1,AF: ORTM [Mali]
+http://212.8.248.197:8080/live/sam02/sam02/964.ts
+#EXTINF:-1,AF: TELE BOSTON
+http://212.8.248.197:8080/live/sam02/sam02/967.ts
+#EXTINF:-1,AF: TV Mocambique 1
+http://212.8.248.197:8080/live/sam02/sam02/962.ts
+#EXTINF:-1,AF: Kana TV
+http://212.8.248.197:8080/live/sam02/sam02/968.ts
+#EXTINF:-1,AF: Aci TV ( OM5 TV )
+http://212.8.248.197:8080/live/sam02/sam02/960.ts
+#EXTINF:-1,AF: Trace Africa
+http://212.8.248.197:8080/live/sam02/sam02/940.ts
+#EXTINF:-1,AF: ANN 7
+http://212.8.248.197:8080/live/sam02/sam02/941.ts
+#EXTINF:-1,AF: Sankofa TV
+http://212.8.248.197:8080/live/sam02/sam02/943.ts
+#EXTINF:-1,AF: BBLACK AFRICA
+http://212.8.248.197:8080/live/sam02/sam02/944.ts
+#EXTINF:-1,AF: GhTv Abroad
+http://212.8.248.197:8080/live/sam02/sam02/946.ts
+#EXTINF:-1,AF: RTS1
+http://212.8.248.197:8080/live/sam02/sam02/947.ts
+#EXTINF:-1,AF: Biafra 1 [Nigeria]
+http://212.8.248.197:8080/live/sam02/sam02/948.ts
+#EXTINF:-1,AF: Biafra 2 [Nigeria]
+http://212.8.248.197:8080/live/sam02/sam02/949.ts
+#EXTINF:-1,AF: TFM HD ( Sengal )
+http://212.8.248.197:8080/live/sam02/sam02/3208.ts
+#EXTINF:-1,AF: TVM 1 ( Mozambique )
+http://212.8.248.197:8080/live/sam02/sam02/3211.ts
+#EXTINF:-1,AF: TVM 2 ( Mozambique )
+http://212.8.248.197:8080/live/sam02/sam02/3212.ts
+#EXTINF:-1,AF: TPA africa
+http://212.8.248.197:8080/live/sam02/sam02/3202.ts
+#EXTINF:-1,AF: Trace Mizki
+http://212.8.248.197:8080/live/sam02/sam02/938.ts
+#EXTINF:-1,AF: Biafra 3 [Nigeria]
+http://212.8.248.197:8080/live/sam02/sam02/950.ts
+#EXTINF:-1,AF: Delta TV
+http://212.8.248.197:8080/live/sam02/sam02/953.ts
+#EXTINF:-1,AF: Channel Télévision [Nigéria]
+http://212.8.248.197:8080/live/sam02/sam02/951.ts
+#EXTINF:-1,AF: RTI1
+http://212.8.248.197:8080/live/sam02/sam02/952.ts
+#EXTINF:-1,AF: TFM [Senegal]
+http://212.8.248.197:8080/live/sam02/sam02/954.ts
+#EXTINF:-1,AF: Vox Africa
+http://212.8.248.197:8080/live/sam02/sam02/955.ts
+#EXTINF:-1,AF: LTV ETHIOPIA
+http://212.8.248.197:8080/live/sam02/sam02/956.ts
+#EXTINF:-1,AF: Africa Sport HD
+http://212.8.248.197:8080/live/sam02/sam02/3220.ts
+#EXTINF:-1,AF: Africa One
+http://212.8.248.197:8080/live/sam02/sam02/3221.ts
+#EXTINF:-1,AF: Afro Music
+http://212.8.248.197:8080/live/sam02/sam02/3222.ts
+#EXTINF:-1,AF: LoveWorld Plus
+http://212.8.248.197:8080/live/sam02/sam02/3223.ts
+#EXTINF:-1,AF: Ashanti24
+http://212.8.248.197:8080/live/sam02/sam02/3224.ts
+#EXTINF:-1,AF: GHTV Online
+http://212.8.248.197:8080/live/sam02/sam02/3213.ts
+#EXTINF:-1,AF: Vox Afrique
+http://212.8.248.197:8080/live/sam02/sam02/3203.ts
+#EXTINF:-1,AF: Catholic TV
+http://212.8.248.197:8080/live/sam02/sam02/3214.ts
+#EXTINF:-1,AF: Africa Cable TV
+http://212.8.248.197:8080/live/sam02/sam02/3205.ts
+#EXTINF:-1,AF: Arise News
+http://212.8.248.197:8080/live/sam02/sam02/3207.ts
+#EXTINF:-1,AF: Eri-TV
+http://212.8.248.197:8080/live/sam02/sam02/3215.ts
+#EXTINF:-1,AF: Bblack Carrabean
+http://212.8.248.197:8080/live/sam02/sam02/3216.ts
+#EXTINF:-1,AF: CGTN
+http://212.8.248.197:8080/live/sam02/sam02/3209.ts
+#EXTINF:-1,AF: Source Africa TV
+http://212.8.248.197:8080/live/sam02/sam02/3217.ts
+#EXTINF:-1,AF: Ghana Entertainment TV
+http://212.8.248.197:8080/live/sam02/sam02/3218.ts
+#EXTINF:-1,AF: Kessben TV ( Ghana )
+http://212.8.248.197:8080/live/sam02/sam02/3219.ts
+#EXTINF:-1,AF: Logo TV
+http://212.8.248.197:8080/live/sam02/sam02/3206.ts
+#EXTINF:-1,AF: MusicTV ( Senegal )
+http://212.8.248.197:8080/live/sam02/sam02/3204.ts
+#EXTINF:-1,AF: PEACE TV ENGLISH
+http://212.8.248.197:8080/live/sam02/sam02/3210.ts
+#EXTINF:-1,AF: TV Kin
+http://212.8.248.197:8080/live/sam02/sam02/3225.ts
+#EXTINF:-1,AF: D5TV
+http://212.8.248.197:8080/live/sam02/sam02/3232.ts
+#EXTINF:-1,AF: Mouride TV
+http://212.8.248.197:8080/live/sam02/sam02/3233.ts
+#EXTINF:-1,AF: RTB (Burkina Faso)
+http://212.8.248.197:8080/live/sam02/sam02/3235.ts
+#EXTINF:-1,AF: T Chad
+http://212.8.248.197:8080/live/sam02/sam02/3234.ts
+#EXTINF:-1,AF: GH Canada TV
+http://212.8.248.197:8080/live/sam02/sam02/3236.ts
+#EXTINF:-1,AF: NTV Kenya
+http://212.8.248.197:8080/live/sam02/sam02/3231.ts
+#EXTINF:-1,AF: Somalia ERYAL
+http://212.8.248.197:8080/live/sam02/sam02/965.ts
+#EXTINF:-1,AF: Somalia SLN TV
+http://212.8.248.197:8080/live/sam02/sam02/942.ts
+#EXTINF:-1,AF: Somalia Cabel
+http://212.8.248.197:8080/live/sam02/sam02/3192.ts
+#EXTINF:-1,AF: Somalia ESTV
+http://212.8.248.197:8080/live/sam02/sam02/3199.ts
+#EXTINF:-1,AF: Somalia HCTV
+http://212.8.248.197:8080/live/sam02/sam02/3197.ts
+#EXTINF:-1,AF: Somalia JABUUTI
+http://212.8.248.197:8080/live/sam02/sam02/3198.ts
+#EXTINF:-1,AF: Somalia Jubaland tv
+http://212.8.248.197:8080/live/sam02/sam02/3194.ts
+#EXTINF:-1,AF: Somalia SBC
+http://212.8.248.197:8080/live/sam02/sam02/3195.ts
+#EXTINF:-1,AF: Somalia SNTV
+http://212.8.248.197:8080/live/sam02/sam02/3200.ts
+#EXTINF:-1,AF: Somalia Kalsan TV
+http://212.8.248.197:8080/live/sam02/sam02/3193.ts
+#EXTINF:-1,AF: Somalia Universal
+http://212.8.248.197:8080/live/sam02/sam02/3196.ts
+#EXTINF:-1,AF: Somali Horn Cable TV HD
+http://212.8.248.197:8080/live/sam02/sam02/3228.ts
+#EXTINF:-1,AF: Somalia PLTV
+http://212.8.248.197:8080/live/sam02/sam02/3201.ts
+#EXTINF:-1,AF: Somali Dayax TV
+http://212.8.248.197:8080/live/sam02/sam02/3229.ts
 #EXTM3U
 #EXTINF:-1,Rete 4 HD
 http://system01.dyndns.org:8000/live/USIXAASS90PO09NBGT76/NviHlvY6kl/116.ts
