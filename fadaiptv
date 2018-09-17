@@ -1700,3 +1700,214 @@ http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassw
 #EXTINF:-1,FR::TCM_CINEMA
 #EXTVLCOPT:http-user-agent=Stupied
 http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassword/763.ts
+#EXTM3U
+#EXTINF:0,------- AFRIQU --------
+http://e2.iudtv.org:8080/live/hou/1234/998.ts
+#EXTINF:0,AF: Africa TV 1
+http://e2.iudtv.org:8080/live/hou/1234/989.ts
+#EXTINF:0,AF: Africa TV 2
+http://e2.iudtv.org:8080/live/hou/1234/958.ts
+#EXTINF:0,AF: Africa TV 4
+http://e2.iudtv.org:8080/live/hou/1234/996.ts
+#EXTINF:0,AF: Africa TV 3
+http://e2.iudtv.org:8080/live/hou/1234/972.ts
+#EXTINF:0,AF: NollyWood Movies
+http://e2.iudtv.org:8080/live/hou/1234/992.ts
+#EXTINF:0,AF: NollyWood French
+http://e2.iudtv.org:8080/live/hou/1234/991.ts
+#EXTINF:0,AF: NollyWood Premier
+http://e2.iudtv.org:8080/live/hou/1234/993.ts
+#EXTINF:0,AF: Canal 2
+http://e2.iudtv.org:8080/live/hou/1234/959.ts
+#EXTINF:0,AF: Music Viva Africa
+http://e2.iudtv.org:8080/live/hou/1234/975.ts
+#EXTINF:0,AF: TRACE NAIJA
+http://e2.iudtv.org:8080/live/hou/1234/957.ts
+#EXTINF:0,AF: Burkina Info
+http://e2.iudtv.org:8080/live/hou/1234/961.ts
+#EXTINF:0,AF: Ratelki TV
+http://e2.iudtv.org:8080/live/hou/1234/985.ts
+#EXTINF:0,AF: Wazobia TV
+http://e2.iudtv.org:8080/live/hou/1234/973.ts
+#EXTINF:0,AF: RTV TV
+http://e2.iudtv.org:8080/live/hou/1234/984.ts
+#EXTINF:0,AF: LC2 Benin
+http://e2.iudtv.org:8080/live/hou/1234/983.ts
+#EXTINF:0,AF: Nigerian Movies
+http://e2.iudtv.org:8080/live/hou/1234/995.ts
+#EXTINF:0,AF: 2STV ( Senegal )
+http://e2.iudtv.org:8080/live/hou/1234/974.ts
+#EXTINF:0,AF: RTG ( Guiniea )
+http://e2.iudtv.org:8080/live/hou/1234/970.ts
+#EXTINF:0,AF: Cine Plus Africa
+http://e2.iudtv.org:8080/live/hou/1234/997.ts
+#EXTINF:0,AF: TVC News
+http://e2.iudtv.org:8080/live/hou/1234/977.ts
+#EXTINF:0,AF: ORTB
+http://e2.iudtv.org:8080/live/hou/1234/994.ts
+#EXTINF:0,AF: RWANDA TV
+http://e2.iudtv.org:8080/live/hou/1234/979.ts
+#EXTINF:0,AF: Walf TV Senegal
+http://e2.iudtv.org:8080/live/hou/1234/981.ts
+#EXTINF:0,AF: Tchad TV
+http://e2.iudtv.org:8080/live/hou/1234/980.ts
+#EXTINF:0,AF: Canal+ Sport 2
+http://e2.iudtv.org:8080/live/hou/1234/990.ts
+#EXTINF:0,AF: Diaspora24 ( Ghana )
+http://e2.iudtv.org:8080/live/hou/1234/971.ts
+#EXTINF:0,AF: Realnolly tv
+http://e2.iudtv.org:8080/live/hou/1234/978.ts
+#EXTINF:0,AF: Canal 2 Movies
+http://e2.iudtv.org:8080/live/hou/1234/988.ts
+#EXTINF:0,AF: Music BOMBA
+http://e2.iudtv.org:8080/live/hou/1234/976.ts
+#EXTINF:0,AF: CRTV
+http://e2.iudtv.org:8080/live/hou/1234/987.ts
+#EXTINF:0,AF: Channels Television ( Nigeria )
+http://e2.iudtv.org:8080/live/hou/1234/986.ts
+#EXTINF:0,AF: SenTV HD
+http://e2.iudtv.org:8080/live/hou/1234/982.ts
+#EXTINF:0,AF: Kalsan TV Somali
+http://e2.iudtv.org:8080/live/hou/1234/966.ts
+#EXTINF:0,AF: RTS2
+http://e2.iudtv.org:8080/live/hou/1234/963.ts
+#EXTINF:0,AF: ORTM [Mali]
+http://e2.iudtv.org:8080/live/hou/1234/964.ts
+#EXTINF:0,AF: Emmanuel TV ( Nigeria )
+http://e2.iudtv.org:8080/live/hou/1234/969.ts
+#EXTINF:0,AF: TELE BOSTON
+http://e2.iudtv.org:8080/live/hou/1234/967.ts
+#EXTINF:0,AF: TV Mocambique 1
+http://e2.iudtv.org:8080/live/hou/1234/962.ts
+#EXTINF:0,AF: Kana TV
+http://e2.iudtv.org:8080/live/hou/1234/968.ts
+#EXTINF:0,AF: Aci TV ( OM5 TV )
+http://e2.iudtv.org:8080/live/hou/1234/960.ts
+#EXTINF:0,AF: Trace Africa
+http://e2.iudtv.org:8080/live/hou/1234/940.ts
+#EXTINF:0,AF: ANN 7
+http://e2.iudtv.org:8080/live/hou/1234/941.ts
+#EXTINF:0,AF: Sankofa TV
+http://e2.iudtv.org:8080/live/hou/1234/943.ts
+#EXTINF:0,AF: BBLACK AFRICA
+http://e2.iudtv.org:8080/live/hou/1234/944.ts
+#EXTINF:0,AF: BET+
+http://e2.iudtv.org:8080/live/hou/1234/945.ts
+#EXTINF:0,AF: GhTv Abroad
+http://e2.iudtv.org:8080/live/hou/1234/946.ts
+#EXTINF:0,AF: RTS1
+http://e2.iudtv.org:8080/live/hou/1234/947.ts
+#EXTINF:0,AF: Biafra 1 [Nigeria]
+http://e2.iudtv.org:8080/live/hou/1234/948.ts
+#EXTINF:0,AF: Biafra 2 [Nigeria]
+http://e2.iudtv.org:8080/live/hou/1234/949.ts
+#EXTINF:0,AF: TFM HD ( Sengal )
+http://e2.iudtv.org:8080/live/hou/1234/3208.ts
+#EXTINF:0,AF: TVM 1 ( Mozambique )
+http://e2.iudtv.org:8080/live/hou/1234/3211.ts
+#EXTINF:0,AF: TVM 2 ( Mozambique )
+http://e2.iudtv.org:8080/live/hou/1234/3212.ts
+#EXTINF:0,AF: TPA africa
+http://e2.iudtv.org:8080/live/hou/1234/3202.ts
+#EXTINF:0,AF: Trace Mizki
+http://e2.iudtv.org:8080/live/hou/1234/938.ts
+#EXTINF:0,AF: Biafra 3 [Nigeria]
+http://e2.iudtv.org:8080/live/hou/1234/950.ts
+#EXTINF:0,AF: Delta TV
+http://e2.iudtv.org:8080/live/hou/1234/953.ts
+#EXTINF:0,AF: Channel Télévision [Nigéria]
+http://e2.iudtv.org:8080/live/hou/1234/951.ts
+#EXTINF:0,AF: RTI1
+http://e2.iudtv.org:8080/live/hou/1234/952.ts
+#EXTINF:0,AF: TFM [Senegal]
+http://e2.iudtv.org:8080/live/hou/1234/954.ts
+#EXTINF:0,AF: Canal+ Sport 1
+http://e2.iudtv.org:8080/live/hou/1234/939.ts
+#EXTINF:0,AF: Vox Africa
+http://e2.iudtv.org:8080/live/hou/1234/955.ts
+#EXTINF:0,AF: LTV ETHIOPIA
+http://e2.iudtv.org:8080/live/hou/1234/956.ts
+#EXTINF:0,AF: Africa Sport HD
+http://e2.iudtv.org:8080/live/hou/1234/3220.ts
+#EXTINF:0,AF: Africa One
+http://e2.iudtv.org:8080/live/hou/1234/3221.ts
+#EXTINF:0,AF: Afro Music
+http://e2.iudtv.org:8080/live/hou/1234/3222.ts
+#EXTINF:0,AF: LoveWorld Plus
+http://e2.iudtv.org:8080/live/hou/1234/3223.ts
+#EXTINF:0,AF: Ashanti24
+http://e2.iudtv.org:8080/live/hou/1234/3224.ts
+#EXTINF:0,AF: GHTV Online
+http://e2.iudtv.org:8080/live/hou/1234/3213.ts
+#EXTINF:0,AF: Vox Afrique
+http://e2.iudtv.org:8080/live/hou/1234/3203.ts
+#EXTINF:0,AF: Catholic TV
+http://e2.iudtv.org:8080/live/hou/1234/3214.ts
+#EXTINF:0,AF: Africa Cable TV
+http://e2.iudtv.org:8080/live/hou/1234/3205.ts
+#EXTINF:0,AF: Arise News
+http://e2.iudtv.org:8080/live/hou/1234/3207.ts
+#EXTINF:0,AF: Eri-TV
+http://e2.iudtv.org:8080/live/hou/1234/3215.ts
+#EXTINF:0,AF: Bblack Carrabean
+http://e2.iudtv.org:8080/live/hou/1234/3216.ts
+#EXTINF:0,AF: CGTN
+http://e2.iudtv.org:8080/live/hou/1234/3209.ts
+#EXTINF:0,AF: Source Africa TV
+http://e2.iudtv.org:8080/live/hou/1234/3217.ts
+#EXTINF:0,AF: Ghana Entertainment TV
+http://e2.iudtv.org:8080/live/hou/1234/3218.ts
+#EXTINF:0,AF: Kessben TV ( Ghana )
+http://e2.iudtv.org:8080/live/hou/1234/3219.ts
+#EXTINF:0,AF: Logo TV
+http://e2.iudtv.org:8080/live/hou/1234/3206.ts
+#EXTINF:0,AF: MusicTV ( Senegal )
+http://e2.iudtv.org:8080/live/hou/1234/3204.ts
+#EXTINF:0,AF: Nigerian Movies 2
+http://e2.iudtv.org:8080/live/hou/1234/3227.ts
+#EXTINF:0,AF: PEACE TV ENGLISH
+http://e2.iudtv.org:8080/live/hou/1234/3210.ts
+#EXTINF:0,AF: TV Kin
+http://e2.iudtv.org:8080/live/hou/1234/3225.ts
+#EXTINF:0,AF: Wife Movies
+http://e2.iudtv.org:8080/live/hou/1234/3226.ts
+#EXTINF:0,AF: D5TV
+http://e2.iudtv.org:8080/live/hou/1234/3232.ts
+#EXTINF:0,AF: Mouride TV
+http://e2.iudtv.org:8080/live/hou/1234/3233.ts
+#EXTINF:0,AF: RTB (Burkina Faso)
+http://e2.iudtv.org:8080/live/hou/1234/3235.ts
+#EXTINF:0,AF: T Chad
+http://e2.iudtv.org:8080/live/hou/1234/3234.ts
+#EXTINF:0,AF: GH Canada TV
+http://e2.iudtv.org:8080/live/hou/1234/3236.ts
+#EXTINF:0,AF: NTV Kenya
+http://e2.iudtv.org:8080/live/hou/1234/3231.ts
+#EXTINF:0,AF: Somalia ERYAL
+http://e2.iudtv.org:8080/live/hou/1234/965.ts
+#EXTINF:0,AF: Somalia SLN TV
+http://e2.iudtv.org:8080/live/hou/1234/942.ts
+#EXTINF:0,AF: Somalia Cabel
+http://e2.iudtv.org:8080/live/hou/1234/3192.ts
+#EXTINF:0,AF: Somalia ESTV
+http://e2.iudtv.org:8080/live/hou/1234/3199.ts
+#EXTINF:0,AF: Somalia HCTV
+http://e2.iudtv.org:8080/live/hou/1234/3197.ts
+#EXTINF:0,AF: Somalia JABUUTI
+http://e2.iudtv.org:8080/live/hou/1234/3198.ts
+#EXTINF:0,AF: Somalia Jubaland tv
+http://e2.iudtv.org:8080/live/hou/1234/3194.ts
+#EXTINF:0,AF: Somalia SBC
+http://e2.iudtv.org:8080/live/hou/1234/3195.ts
+#EXTINF:0,AF: Somalia SNTV
+http://e2.iudtv.org:8080/live/hou/1234/3200.ts
+#EXTINF:0,AF: Somalia Kalsan TV
+http://e2.iudtv.org:8080/live/hou/1234/3193.ts
+#EXTINF:0,AF: Somalia Universal
+http://e2.iudtv.org:8080/live/hou/1234/3196.ts
+#EXTINF:0,AF: Somali Horn Cable TV HD
+http://e2.iudtv.org:8080/live/hou/1234/3228.ts
+#EXTINF:0,AF: Somalia PLTV
+http://e2.iudtv.org:8080/live/hou/1234/3201.ts
+#EXTINF:0,AF: Somali Dayax TV
+http://e2.iudtv.org:8080/live/hou/1234/3229.ts
