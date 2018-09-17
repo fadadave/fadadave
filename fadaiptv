@@ -1699,141 +1699,338 @@ http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassw
 http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassword/762.ts
 #EXTINF:-1,FR::TCM_CINEMA
 #EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassword/763.ts
+http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassword/763.ts 
 #EXTM3U
-#EXTINF:0,AF: TVM 1 mozam
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10501.ts
-#EXTINF:0,AF: PENTV41
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13142.ts
-#EXTINF:0,AF: Emmanuel TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12043.ts
-#EXTINF:0,AF: Channels TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12044.ts
-#EXTINF:0,AF:  Biafra TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13963.ts
-#EXTINF:0,AF: MORE GRACE  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7905.ts
-#EXTINF:0,AF: ORTM  mali
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12045.ts
-#EXTINF:0,AF: BEN TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20659.ts
-#EXTINF:0,AF: Bblack! Africa
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22819.ts
-#EXTINF:0,AF: CFTV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11702.ts
-#EXTINF:0,AF :Somali Africa TV4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20638.ts
-#EXTINF:0,AF: A2i TV   senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20726.ts
-#EXTINF:0,AF: RTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22824.ts
-#EXTINF:0,AF: Vision 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22823.ts
-#EXTINF:0,AF: Bblack! Caribbean
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22820.ts
-#EXTINF:0,AF: A2i  Religion senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20735.ts
+#EXTINF:0,UK::- SKY SPORTS  THE OPEN HD
+http://62.210.189.82:9000/live/mostafa/123456/8391.ts
+#EXTINF:0,UK::- Sky Sports Action FHD
+http://62.210.189.82:9000/live/mostafa/123456/8392.ts
+#EXTINF:0,UK::- Sky Sports Arena FHD
+http://62.210.189.82:9000/live/mostafa/123456/8393.ts
+#EXTINF:0,UK::- Sky Sports Cricket FHD
+http://62.210.189.82:9000/live/mostafa/123456/8394.ts
+#EXTINF:0,UK::- Sky Sports F1 HD
+http://62.210.189.82:9000/live/mostafa/123456/8395.ts
+#EXTINF:0,UK::- Sky Sports FootBall FHD
+http://62.210.189.82:9000/live/mostafa/123456/8396.ts
+#EXTINF:0,UK::- Sky Sports Golf FHD
+http://62.210.189.82:9000/live/mostafa/123456/8397.ts
+#EXTINF:0,UK::- Sky Sports Main Event FHD
+http://62.210.189.82:9000/live/mostafa/123456/8398.ts
+#EXTINF:0,UK::- Sky Sports Mix FHD
+http://62.210.189.82:9000/live/mostafa/123456/8399.ts
+#EXTINF:0,UK::- Sky Sports News FHD
+http://62.210.189.82:9000/live/mostafa/123456/8400.ts
+#EXTINF:0,UK::- Sky Sports Premier League FHD
+http://62.210.189.82:9000/live/mostafa/123456/8401.ts
+#EXTINF:0,DE LOCAL --Sky Sport 1
+http://62.210.189.82:9000/live/mostafa/123456/7723.ts
+#EXTINF:0,DE LOCAL --Sky Sport 2
+http://62.210.189.82:9000/live/mostafa/123456/7722.ts
+#EXTINF:0,DE LOCAL --Sky Sport 3
+http://62.210.189.82:9000/live/mostafa/123456/7721.ts
+#EXTINF:0,DE LOCAL --Sky Sport 4
+http://62.210.189.82:9000/live/mostafa/123456/7720.ts
+#EXTINF:0,DE LOCAL --Sky Sport 5
+http://62.210.189.82:9000/live/mostafa/123456/7719.ts
+#EXTINF:0,DE LOCAL --Sky Sport 6
+http://62.210.189.82:9000/live/mostafa/123456/7718.ts
+#EXTINF:0,DE LOCAL --Sky Sport 7
+http://62.210.189.82:9000/live/mostafa/123456/7717.ts
+#EXTINF:0,DE LOCAL --Sky Sport 8
+http://62.210.189.82:9000/live/mostafa/123456/7716.ts
+#EXTINF:0,DE LOCAL --Sky Sport Austria
+http://62.210.189.82:9000/live/mostafa/123456/7715.ts
+#EXTINF:0,DE LOCAL --Sky Sport Bundesliga 1
+http://62.210.189.82:9000/live/mostafa/123456/7714.ts
+#EXTINF:0,DE LOCAL --Sky Sport Bundesliga 2
+http://62.210.189.82:9000/live/mostafa/123456/7713.ts
+#EXTINF:0,DE LOCAL --Sky Sport News
+http://62.210.189.82:9000/live/mostafa/123456/7712.ts
+#EXTINF:0,IT: Sky Sport 1 HD
+http://e2.iudtv.org:8080/live/preston/preston1/655.ts
+#EXTINF:0,IT: Sky Sport 2 HD
+http://e2.iudtv.org:8080/live/preston/preston1/654.ts
+#EXTINF:0,IT: Sky Sport 3 HD
+http://e2.iudtv.org:8080/live/preston/preston1/653.ts
+#EXTINF:0,IT: Sky Sport 24 HD
+http://e2.iudtv.org:8080/live/preston/preston1/652.ts
+#EXTINF:0,IT: Sky Sport F1 HD
+http://e2.iudtv.org:8080/live/preston/preston1/651.ts
+#EXTINF:0,UK: Sky Sports News
+http://e2.iudtv.org:8080/live/preston/preston1/549.ts
+#EXTINF:0,UK: Sky Sports Box Office HD
+http://e2.iudtv.org:8080/live/preston/preston1/529.ts
+#EXTINF:0,UK: Sky Sports F1
+http://e2.iudtv.org:8080/live/preston/preston1/539.ts
+#EXTINF:0,UK: Sky Sport AU 1
+http://e2.iudtv.org:8080/live/preston/preston1/438.ts
+#EXTINF:0,UK: Sky Sports Action
+http://e2.iudtv.org:8080/live/preston/preston1/1560.ts
+#EXTINF:0,UK: Sky Sports Action HD
+http://e2.iudtv.org:8080/live/preston/preston1/545.ts
+#EXTINF:0,UK: Sky Sports Premier
+http://e2.iudtv.org:8080/live/preston/preston1/1565.ts
+#EXTINF:0,UK: Sky Sports Premier League
+http://e2.iudtv.org:8080/live/preston/preston1/1562.ts
+#EXTINF:0,UK: Sky Sports Premier League HD
+http://e2.iudtv.org:8080/live/preston/preston1/544.ts
+#EXTINF:0,UK: Sky Sports Main Event
+http://e2.iudtv.org:8080/live/preston/preston1/1561.ts
+#EXTINF:0,UK: Sky Sports Main Event HD
+http://e2.iudtv.org:8080/live/preston/preston1/546.ts
+#EXTINF:0,UK: Sky Sports Golf
+http://e2.iudtv.org:8080/live/preston/preston1/548.ts
+#EXTINF:0,UK: Sky Sports Golf HD
+http://e2.iudtv.org:8080/live/preston/preston1/1563.ts
+#EXTINF:0,UK: Sky Sports Cricket
+http://e2.iudtv.org:8080/live/preston/preston1/1564.ts
+#EXTINF:0,UK: Sky Sports Cricket HD
+http://e2.iudtv.org:8080/live/preston/preston1/547.ts
+#EXTINF:0,UK: Sky Sport Arena
+http://e2.iudtv.org:8080/live/preston/preston1/1558.ts
+#EXTINF:0,UK: Sky Sport Football
+http://e2.iudtv.org:8080/live/preston/preston1/1559.ts
+#EXTINF:0,UK: Sky Sports Mix HD
+http://e2.iudtv.org:8080/live/preston/preston1/513.ts
+#EXTINF:0,DE: Sky Sport News
+http://e2.iudtv.org:8080/live/preston/preston1/759.ts
+#EXTINF:0,DE: Sky Sport +1
+http://e2.iudtv.org:8080/live/preston/preston1/761.ts
+#EXTINF:0,DE: Sky Sport 1 HD
+http://e2.iudtv.org:8080/live/preston/preston1/829.ts
+#EXTINF:0,DE: Sky Sport 2 HD
+http://e2.iudtv.org:8080/live/preston/preston1/826.ts
+#EXTINF:0,DE: Sky Sport 1
+http://e2.iudtv.org:8080/live/preston/preston1/827.ts
+#EXTINF:0,DE: Sky Sport 2
+http://e2.iudtv.org:8080/live/preston/preston1/828.ts
+#EXTINF:0,DE: Sky Sport Austria
+http://e2.iudtv.org:8080/live/preston/preston1/807.ts
+#EXTINF:0,DE: Sky Sport 3 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/839.ts
+#EXTINF:0,DE: Sky Sport 4 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/840.ts
+#EXTINF:0,DE: Sky Sport 5 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/841.ts
+#EXTINF:0,DE: Sky Sport 6 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/842.ts
+#EXTINF:0,DE: Sky Sport 7 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/843.ts
+#EXTINF:0,DE: Sky Sport 8 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/844.ts
+#EXTINF:0,DE: Sky Sport 9 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/845.ts
+#EXTINF:0,DE: Sky Sport 10 (Only at Games)
+http://e2.iudtv.org:8080/live/preston/preston1/830.ts
+#EXTM3U
+#EXTINF:0,------- AFRIQU --------
+http://e2.iudtv.org:8080/live/hou/1234/998.ts
 #EXTINF:0,AF: Africa TV 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10113.ts
+http://e2.iudtv.org:8080/live/hou/1234/989.ts
 #EXTINF:0,AF: Africa TV 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20720.ts
+http://e2.iudtv.org:8080/live/hou/1234/958.ts
+#EXTINF:0,AF: Africa TV 4
+http://e2.iudtv.org:8080/live/hou/1234/996.ts
 #EXTINF:0,AF: Africa TV 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11280.ts
-#EXTINF:0,AF: BRIDE TV nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20728.ts
-#EXTINF:0,AF: Cash Chrono TV  senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20725.ts
-#EXTINF:0,AF: Chosen TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20658.ts
-#EXTINF:0,AF: CTV 5 nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20701.ts
-#EXTINF:0,AF: Diaspora 24 TV  senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7349.ts
-#EXTINF:0,AF: Dove TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20699.ts
-#EXTINF:0,AF: Citizen TV  kenya
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20664.ts
-#EXTINF:0,AF: Dunamis TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20730.ts
-#EXTINF:0,AF: KASS TV  Kenya
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20727.ts
-#EXTINF:0,AF: Lagos TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20654.ts
-#EXTINF:0,AF: LIBERATION TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20731.ts
-#EXTINF:0,AF: Loveworld Plus TV Nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20729.ts
-#EXTINF:0,AF: NBS  Uganda
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20662.ts
-#EXTINF:0,AF: Mouride TV  senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20661.ts
-#EXTINF:0,AF: NEW WORLD TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20736.ts
-#EXTINF:0,AF: Espace TV Guinea
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20665.ts
-#EXTINF:0,AF: Rave TV  nigeria
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7859.ts
-#EXTINF:0,AF: RTI 1  Ivory
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20666.ts
-#EXTINF:0,AF: RTI 2  Ivory
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20667.ts
-#EXTINF:0,AF: RTNC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20635.ts
-#EXTINF:0,AF: Impact Télé
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20732.ts
-#EXTINF:0,AF: TCV Channel   Cape Verde
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20636.ts
-#EXTINF:0,AF:TV MANA  Mozam
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20652.ts
-#EXTINF:0,AF: SenTV HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20637.ts
-#EXTINF:0,AF: Télésud
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22119.ts
-#EXTINF:0,AF: Somali kalsan
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20689.ts
-#EXTINF:0,AF: Somalia PLTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20691.ts
-#EXTINF:0,AF: AIT  INT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20686.ts
-#EXTINF:0,AF: TVT International
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20639.ts
-#EXTINF:0,AF: TV CONGO
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20640.ts
-#EXTINF:0,AF: TPAI
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20641.ts
-#EXTINF:0,AF: STV 2 Cameron
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20642.ts
-#EXTINF:0,AF:  SOMALI CABLE
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20643.ts
-#EXTINF:0,AF: Tayba TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20653.ts
-#EXTINF:0,AF: RTS 1 TV  senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20644.ts
-#EXTINF:0,AF: RTI 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20645.ts
-#EXTINF:0,AF: TFM SENEGAL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20672.ts
+http://e2.iudtv.org:8080/live/hou/1234/972.ts
+#EXTINF:0,AF: NollyWood Movies
+http://e2.iudtv.org:8080/live/hou/1234/992.ts
+#EXTINF:0,AF: NollyWood French
+http://e2.iudtv.org:8080/live/hou/1234/991.ts
+#EXTINF:0,AF: NollyWood Premier
+http://e2.iudtv.org:8080/live/hou/1234/993.ts
+#EXTINF:0,AF: Canal 2
+http://e2.iudtv.org:8080/live/hou/1234/959.ts
+#EXTINF:0,AF: Music Viva Africa
+http://e2.iudtv.org:8080/live/hou/1234/975.ts
+#EXTINF:0,AF: TRACE NAIJA
+http://e2.iudtv.org:8080/live/hou/1234/957.ts
+#EXTINF:0,AF: Burkina Info
+http://e2.iudtv.org:8080/live/hou/1234/961.ts
+#EXTINF:0,AF: Ratelki TV
+http://e2.iudtv.org:8080/live/hou/1234/985.ts
+#EXTINF:0,AF: Wazobia TV
+http://e2.iudtv.org:8080/live/hou/1234/973.ts
+#EXTINF:0,AF: RTV TV
+http://e2.iudtv.org:8080/live/hou/1234/984.ts
+#EXTINF:0,AF: LC2 Benin
+http://e2.iudtv.org:8080/live/hou/1234/983.ts
+#EXTINF:0,AF: Nigerian Movies
+http://e2.iudtv.org:8080/live/hou/1234/995.ts
+#EXTINF:0,AF: 2STV ( Senegal )
+http://e2.iudtv.org:8080/live/hou/1234/974.ts
+#EXTINF:0,AF: RTG ( Guiniea )
+http://e2.iudtv.org:8080/live/hou/1234/970.ts
+#EXTINF:0,AF: Cine Plus Africa
+http://e2.iudtv.org:8080/live/hou/1234/997.ts
+#EXTINF:0,AF: TVC News
+http://e2.iudtv.org:8080/live/hou/1234/977.ts
 #EXTINF:0,AF: ORTB
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20647.ts
-#EXTINF:0,AF: RTG TV  Guinea
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20648.ts
+http://e2.iudtv.org:8080/live/hou/1234/994.ts
+#EXTINF:0,AF: RWANDA TV
+http://e2.iudtv.org:8080/live/hou/1234/979.ts
+#EXTINF:0,AF: Walf TV Senegal
+http://e2.iudtv.org:8080/live/hou/1234/981.ts
+#EXTINF:0,AF: Tchad TV
+http://e2.iudtv.org:8080/live/hou/1234/980.ts
+#EXTINF:0,AF: Canal+ Sport 2
+http://e2.iudtv.org:8080/live/hou/1234/990.ts
+#EXTINF:0,AF: Diaspora24 ( Ghana )
+http://e2.iudtv.org:8080/live/hou/1234/971.ts
+#EXTINF:0,AF: Realnolly tv
+http://e2.iudtv.org:8080/live/hou/1234/978.ts
+#EXTINF:0,AF: Canal 2 Movies
+http://e2.iudtv.org:8080/live/hou/1234/988.ts
+#EXTINF:0,AF: Music BOMBA
+http://e2.iudtv.org:8080/live/hou/1234/976.ts
+#EXTINF:0,AF: CRTV
+http://e2.iudtv.org:8080/live/hou/1234/987.ts
+#EXTINF:0,AF: Channels Television ( Nigeria )
+http://e2.iudtv.org:8080/live/hou/1234/986.ts
+#EXTINF:0,AF: SenTV HD
+http://e2.iudtv.org:8080/live/hou/1234/982.ts
+#EXTINF:0,AF: Kalsan TV Somali
+http://e2.iudtv.org:8080/live/hou/1234/966.ts
+#EXTINF:0,AF: RTS2
+http://e2.iudtv.org:8080/live/hou/1234/963.ts
+#EXTINF:0,AF: ORTM [Mali]
+http://e2.iudtv.org:8080/live/hou/1234/964.ts
+#EXTINF:0,AF: Emmanuel TV ( Nigeria )
+http://e2.iudtv.org:8080/live/hou/1234/969.ts
+#EXTINF:0,AF: TELE BOSTON
+http://e2.iudtv.org:8080/live/hou/1234/967.ts
+#EXTINF:0,AF: TV Mocambique 1
+http://e2.iudtv.org:8080/live/hou/1234/962.ts
+#EXTINF:0,AF: Kana TV
+http://e2.iudtv.org:8080/live/hou/1234/968.ts
+#EXTINF:0,AF: Aci TV ( OM5 TV )
+http://e2.iudtv.org:8080/live/hou/1234/960.ts
 #EXTINF:0,AF: Trace Africa
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20649.ts
-#EXTINF:0,AF: ETV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20733.ts
-#EXTINF:0,AF: CHANNEL 24
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20673.ts
-#EXTINF:0,AF: TV IMPACT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20674.ts
-#EXTINF:0,AF: TVC NIGERIA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10111.ts
-#EXTINF:0,AF: VISION 4  CAM
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20444.ts
-#EXTINF:0,AF: Walf TV  senegal
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20669.ts
-#EXTINF:0,AF: TVM 2  mozam
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11478.ts
+http://e2.iudtv.org:8080/live/hou/1234/940.ts
+#EXTINF:0,AF: ANN 7
+http://e2.iudtv.org:8080/live/hou/1234/941.ts
+#EXTINF:0,AF: Sankofa TV
+http://e2.iudtv.org:8080/live/hou/1234/943.ts
+#EXTINF:0,AF: BBLACK AFRICA
+http://e2.iudtv.org:8080/live/hou/1234/944.ts
+#EXTINF:0,AF: BET+
+http://e2.iudtv.org:8080/live/hou/1234/945.ts
+#EXTINF:0,AF: GhTv Abroad
+http://e2.iudtv.org:8080/live/hou/1234/946.ts
+#EXTINF:0,AF: RTS1
+http://e2.iudtv.org:8080/live/hou/1234/947.ts
+#EXTINF:0,AF: Biafra 1 [Nigeria]
+http://e2.iudtv.org:8080/live/hou/1234/948.ts
+#EXTINF:0,AF: Biafra 2 [Nigeria]
+http://e2.iudtv.org:8080/live/hou/1234/949.ts
+#EXTINF:0,AF: TFM HD ( Sengal )
+http://e2.iudtv.org:8080/live/hou/1234/3208.ts
+#EXTINF:0,AF: TVM 1 ( Mozambique )
+http://e2.iudtv.org:8080/live/hou/1234/3211.ts
+#EXTINF:0,AF: TVM 2 ( Mozambique )
+http://e2.iudtv.org:8080/live/hou/1234/3212.ts
+#EXTINF:0,AF: TPA africa
+http://e2.iudtv.org:8080/live/hou/1234/3202.ts
+#EXTINF:0,AF: Trace Mizki
+http://e2.iudtv.org:8080/live/hou/1234/938.ts
+#EXTINF:0,AF: Biafra 3 [Nigeria]
+http://e2.iudtv.org:8080/live/hou/1234/950.ts
+#EXTINF:0,AF: Delta TV
+http://e2.iudtv.org:8080/live/hou/1234/953.ts
+#EXTINF:0,AF: Channel Télévision [Nigéria]
+http://e2.iudtv.org:8080/live/hou/1234/951.ts
+#EXTINF:0,AF: RTI1
+http://e2.iudtv.org:8080/live/hou/1234/952.ts
+#EXTINF:0,AF: TFM [Senegal]
+http://e2.iudtv.org:8080/live/hou/1234/954.ts
+#EXTINF:0,AF: Canal+ Sport 1
+http://e2.iudtv.org:8080/live/hou/1234/939.ts
+#EXTINF:0,AF: Vox Africa
+http://e2.iudtv.org:8080/live/hou/1234/955.ts
+#EXTINF:0,AF: LTV ETHIOPIA
+http://e2.iudtv.org:8080/live/hou/1234/956.ts
+#EXTINF:0,AF: Africa Sport HD
+http://e2.iudtv.org:8080/live/hou/1234/3220.ts
+#EXTINF:0,AF: Africa One
+http://e2.iudtv.org:8080/live/hou/1234/3221.ts
+#EXTINF:0,AF: Afro Music
+http://e2.iudtv.org:8080/live/hou/1234/3222.ts
+#EXTINF:0,AF: LoveWorld Plus
+http://e2.iudtv.org:8080/live/hou/1234/3223.ts
+#EXTINF:0,AF: Ashanti24
+http://e2.iudtv.org:8080/live/hou/1234/3224.ts
+#EXTINF:0,AF: GHTV Online
+http://e2.iudtv.org:8080/live/hou/1234/3213.ts
+#EXTINF:0,AF: Vox Afrique
+http://e2.iudtv.org:8080/live/hou/1234/3203.ts
+#EXTINF:0,AF: Catholic TV
+http://e2.iudtv.org:8080/live/hou/1234/3214.ts
+#EXTINF:0,AF: Africa Cable TV
+http://e2.iudtv.org:8080/live/hou/1234/3205.ts
+#EXTINF:0,AF: Arise News
+http://e2.iudtv.org:8080/live/hou/1234/3207.ts
+#EXTINF:0,AF: Eri-TV
+http://e2.iudtv.org:8080/live/hou/1234/3215.ts
+#EXTINF:0,AF: Bblack Carrabean
+http://e2.iudtv.org:8080/live/hou/1234/3216.ts
+#EXTINF:0,AF: CGTN
+http://e2.iudtv.org:8080/live/hou/1234/3209.ts
+#EXTINF:0,AF: Source Africa TV
+http://e2.iudtv.org:8080/live/hou/1234/3217.ts
+#EXTINF:0,AF: Ghana Entertainment TV
+http://e2.iudtv.org:8080/live/hou/1234/3218.ts
+#EXTINF:0,AF: Kessben TV ( Ghana )
+http://e2.iudtv.org:8080/live/hou/1234/3219.ts
+#EXTINF:0,AF: Logo TV
+http://e2.iudtv.org:8080/live/hou/1234/3206.ts
+#EXTINF:0,AF: MusicTV ( Senegal )
+http://e2.iudtv.org:8080/live/hou/1234/3204.ts
+#EXTINF:0,AF: Nigerian Movies 2
+http://e2.iudtv.org:8080/live/hou/1234/3227.ts
+#EXTINF:0,AF: PEACE TV ENGLISH
+http://e2.iudtv.org:8080/live/hou/1234/3210.ts
+#EXTINF:0,AF: TV Kin
+http://e2.iudtv.org:8080/live/hou/1234/3225.ts
+#EXTINF:0,AF: Wife Movies
+http://e2.iudtv.org:8080/live/hou/1234/3226.ts
+#EXTINF:0,AF: D5TV
+http://e2.iudtv.org:8080/live/hou/1234/3232.ts
+#EXTINF:0,AF: Mouride TV
+http://e2.iudtv.org:8080/live/hou/1234/3233.ts
+#EXTINF:0,AF: RTB (Burkina Faso)
+http://e2.iudtv.org:8080/live/hou/1234/3235.ts
+#EXTINF:0,AF: T Chad
+http://e2.iudtv.org:8080/live/hou/1234/3234.ts
+#EXTINF:0,AF: GH Canada TV
+http://e2.iudtv.org:8080/live/hou/1234/3236.ts
 #EXTINF:0,AF: NTV Kenya
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11700.ts
-#EXTINF:0,AF: INOORO  kenya
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7866.ts
+http://e2.iudtv.org:8080/live/hou/1234/3231.ts
+#EXTINF:0,AF: Somalia ERYAL
+http://e2.iudtv.org:8080/live/hou/1234/965.ts
+#EXTINF:0,AF: Somalia SLN TV
+http://e2.iudtv.org:8080/live/hou/1234/942.ts
+#EXTINF:0,AF: Somalia Cabel
+http://e2.iudtv.org:8080/live/hou/1234/3192.ts
+#EXTINF:0,AF: Somalia ESTV
+http://e2.iudtv.org:8080/live/hou/1234/3199.ts
+#EXTINF:0,AF: Somalia HCTV
+http://e2.iudtv.org:8080/live/hou/1234/3197.ts
+#EXTINF:0,AF: Somalia JABUUTI
+http://e2.iudtv.org:8080/live/hou/1234/3198.ts
+#EXTINF:0,AF: Somalia Jubaland tv
+http://e2.iudtv.org:8080/live/hou/1234/3194.ts
+#EXTINF:0,AF: Somalia SBC
+http://e2.iudtv.org:8080/live/hou/1234/3195.ts
+#EXTINF:0,AF: Somalia SNTV
+http://e2.iudtv.org:8080/live/hou/1234/3200.ts
+#EXTINF:0,AF: Somalia Kalsan TV
+http://e2.iudtv.org:8080/live/hou/1234/3193.ts
+#EXTINF:0,AF: Somalia Universal
+http://e2.iudtv.org:8080/live/hou/1234/3196.ts
+#EXTINF:0,AF: Somali Horn Cable TV HD
+http://e2.iudtv.org:8080/live/hou/1234/3228.ts
+#EXTINF:0,AF: Somalia PLTV
+http://e2.iudtv.org:8080/live/hou/1234/3201.ts
+#EXTINF:0,AF: Somali Dayax TV
+http://e2.iudtv.org:8080/live/hou/1234/3229.ts
