@@ -1700,3 +1700,140 @@ http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassw
 #EXTINF:-1,FR::TCM_CINEMA
 #EXTVLCOPT:http-user-agent=Stupied
 http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/passwordpasswordpassword/763.ts
+#EXTM3U
+#EXTINF:0,AF: TVM 1 mozam
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10501.ts
+#EXTINF:0,AF: PENTV41
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13142.ts
+#EXTINF:0,AF: Emmanuel TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12043.ts
+#EXTINF:0,AF: Channels TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12044.ts
+#EXTINF:0,AF:  Biafra TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13963.ts
+#EXTINF:0,AF: MORE GRACE  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7905.ts
+#EXTINF:0,AF: ORTM  mali
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12045.ts
+#EXTINF:0,AF: BEN TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20659.ts
+#EXTINF:0,AF: Bblack! Africa
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22819.ts
+#EXTINF:0,AF: CFTV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11702.ts
+#EXTINF:0,AF :Somali Africa TV4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20638.ts
+#EXTINF:0,AF: A2i TV   senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20726.ts
+#EXTINF:0,AF: RTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22824.ts
+#EXTINF:0,AF: Vision 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22823.ts
+#EXTINF:0,AF: Bblack! Caribbean
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22820.ts
+#EXTINF:0,AF: A2i  Religion senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20735.ts
+#EXTINF:0,AF: Africa TV 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10113.ts
+#EXTINF:0,AF: Africa TV 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20720.ts
+#EXTINF:0,AF: Africa TV 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11280.ts
+#EXTINF:0,AF: BRIDE TV nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20728.ts
+#EXTINF:0,AF: Cash Chrono TV  senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20725.ts
+#EXTINF:0,AF: Chosen TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20658.ts
+#EXTINF:0,AF: CTV 5 nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20701.ts
+#EXTINF:0,AF: Diaspora 24 TV  senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7349.ts
+#EXTINF:0,AF: Dove TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20699.ts
+#EXTINF:0,AF: Citizen TV  kenya
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20664.ts
+#EXTINF:0,AF: Dunamis TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20730.ts
+#EXTINF:0,AF: KASS TV  Kenya
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20727.ts
+#EXTINF:0,AF: Lagos TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20654.ts
+#EXTINF:0,AF: LIBERATION TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20731.ts
+#EXTINF:0,AF: Loveworld Plus TV Nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20729.ts
+#EXTINF:0,AF: NBS  Uganda
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20662.ts
+#EXTINF:0,AF: Mouride TV  senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20661.ts
+#EXTINF:0,AF: NEW WORLD TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20736.ts
+#EXTINF:0,AF: Espace TV Guinea
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20665.ts
+#EXTINF:0,AF: Rave TV  nigeria
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7859.ts
+#EXTINF:0,AF: RTI 1  Ivory
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20666.ts
+#EXTINF:0,AF: RTI 2  Ivory
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20667.ts
+#EXTINF:0,AF: RTNC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20635.ts
+#EXTINF:0,AF: Impact Télé
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20732.ts
+#EXTINF:0,AF: TCV Channel   Cape Verde
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20636.ts
+#EXTINF:0,AF:TV MANA  Mozam
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20652.ts
+#EXTINF:0,AF: SenTV HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20637.ts
+#EXTINF:0,AF: Télésud
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22119.ts
+#EXTINF:0,AF: Somali kalsan
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20689.ts
+#EXTINF:0,AF: Somalia PLTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20691.ts
+#EXTINF:0,AF: AIT  INT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20686.ts
+#EXTINF:0,AF: TVT International
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20639.ts
+#EXTINF:0,AF: TV CONGO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20640.ts
+#EXTINF:0,AF: TPAI
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20641.ts
+#EXTINF:0,AF: STV 2 Cameron
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20642.ts
+#EXTINF:0,AF:  SOMALI CABLE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20643.ts
+#EXTINF:0,AF: Tayba TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20653.ts
+#EXTINF:0,AF: RTS 1 TV  senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20644.ts
+#EXTINF:0,AF: RTI 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20645.ts
+#EXTINF:0,AF: TFM SENEGAL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20672.ts
+#EXTINF:0,AF: ORTB
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20647.ts
+#EXTINF:0,AF: RTG TV  Guinea
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20648.ts
+#EXTINF:0,AF: Trace Africa
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20649.ts
+#EXTINF:0,AF: ETV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20733.ts
+#EXTINF:0,AF: CHANNEL 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20673.ts
+#EXTINF:0,AF: TV IMPACT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20674.ts
+#EXTINF:0,AF: TVC NIGERIA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10111.ts
+#EXTINF:0,AF: VISION 4  CAM
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20444.ts
+#EXTINF:0,AF: Walf TV  senegal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20669.ts
+#EXTINF:0,AF: TVM 2  mozam
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11478.ts
+#EXTINF:0,AF: NTV Kenya
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11700.ts
+#EXTINF:0,AF: INOORO  kenya
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7866.ts
