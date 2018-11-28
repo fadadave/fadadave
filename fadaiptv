@@ -45,7 +45,7 @@ http://rb-group-server.com:25461/live/hhh/hhh/3424.m3u8
 http://rb-group-server.com:25461/live/hhh/hhh/7210.m3u8
 #EXTINF:-1,DE: Disney.Junior
 http://rb-group-server.com:25461/live/hhh/hhh/3425.m3u8
-#EXTINF:-1,DE: Disney Channel
+#EXTINF:-1,DE: Disney ChannelCC
 http://rb-group-server.com:25461/live/hhh/hhh/7212.m3u8
 #EXTINF:-1,DE: Disney Cinemagic
 http://rb-group-server.com:25461/live/hhh/hhh/7211.m3u8
@@ -54,7 +54,6 @@ http://rb-group-server.com:25461/live/hhh/hhh/7213.m3u8
 #EXTINF:-1,--------KIDS FR--------
 http://rb-group-server.com:25461/live/hhh/hhh/6250.m3u8
 #EXTINF:-1,FR: Tiji
-http://rb-group-server.com:25461/live/hhh/hhh/5444.m3u8
 #EXTINF:-1,FR: Piwi
 http://rb-group-server.com:25461/live/hhh/hhh/5443.m3u8
 #EXTINF:-1,FR: Gulli
