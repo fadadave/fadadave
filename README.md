@@ -712,4 +712,4 @@ http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10646.m3u8
 #EXTINF:-1,Us- Fox sport 1 HD
 http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10416.m3u8
 #EXTINF:-1,Us- Fox sport 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10415.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10415.m3u
