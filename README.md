@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1,BeinHD: Fox
 http://4ever.biz:80/live/YIPAipld2t/4NTn9lmYrZ/8133.m3u8
-#EXTINF:-1,BeinHD: Fox Movies
-http://4ever.biz:80/live/YIPAipld2t/4NTn9lmYrZ/8130.m3u8
+
 #EXTINF:-1,BeinHD: Fox Action
 http://4ever.biz:80/live/YIPAipld2t/4NTn9lmYrZ/8131.m3u8
 #EXTINF:-1,BeinHD: Fox Family
